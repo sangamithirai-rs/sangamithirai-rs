@@ -218,7 +218,7 @@ I'm currently going deeper into these areas through courses, experiments, and pr
   <a href="https://github.com/sangamithirai-rs">
     <img src="https://img.shields.io/badge/GitHub-sangamithirai--rs-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:sangamithirairs.work@gmail.com">
+  <a href="mailto:rssangamithirai@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
