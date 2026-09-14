@@ -1,6 +1,5 @@
 # Hey, I'm Sangamithirai RS 👋
-
-### I build things, break things, and figure out why they work.
+.
 
 I'm a Computer Science student exploring the intersection of
 **cybersecurity, software engineering, and AI**.
