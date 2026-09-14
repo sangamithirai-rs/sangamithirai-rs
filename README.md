@@ -7,6 +7,14 @@ I like going beyond tutorials — building things from scratch, understanding
 what happens underneath, finding what breaks, and learning how to make it
 better.
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangamithirai-rs/)
+
+<img src="https://komarev.com/ghpvc/?username=sangamithirai-rs&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
