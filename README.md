@@ -1,5 +1,4 @@
 # Hey, I'm Sangamithirai RS 👋
-.
 
 I'm a Computer Science student exploring the intersection of
 **cybersecurity, software engineering, and AI**.
