@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:7C3AED&height=220&section=header&text=SANGAMITHIRAI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AI%20%7C%20DSA&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-building • breaking • understanding
+### `building • breaking • understanding`
 
-Computer Science Student · Cybersecurity Learner · AI Explorer
+**Computer Science Student · Cybersecurity Learner · AI Explorer**
 
 <br>
 
@@ -18,12 +18,15 @@ Computer Science Student · Cybersecurity Learner · AI Explorer
 
 </div>
 
+---
+
 <div align="center">
 
-01 — WHO AM I?
+## `01 — WHO AM I?`
 
 </div>
 
+```text
 ┌───────────────────────────────────────────────────────────────┐
 │                                                               │
 │   $ whoami                                                    │
@@ -37,58 +40,61 @@ Computer Science Student · Cybersecurity Learner · AI Explorer
 │   by actually breaking and fixing them.                       │
 │                                                               │
 └───────────────────────────────────────────────────────────────┘
+```
+
+---
 
 <div align="center">
 
-02 — THE THREE PILLARS
+## `02 — THE THREE PILLARS`
 
 <table>
 <tr>
 
 <td width="33%" align="center">
 
-01
+### `01`
 
-🔐
+# 🔐
 
-CYBERSECURITY
+### CYBERSECURITY
 
-Security fundamentals
-Network security
-Web security
-Threats & vulnerabilities
+Security fundamentals  
+Network security  
+Web security  
+Threats & vulnerabilities  
 Hands-on security learning
 
 </td>
 
 <td width="33%" align="center">
 
-02
+### `02`
 
-◉
+# ◉
 
-ARTIFICIAL INTELLIGENCE
+### ARTIFICIAL INTELLIGENCE
 
-Generative AI
-LLMs
-AI applications
-Agentic AI
+Generative AI  
+LLMs  
+AI applications  
+Agentic AI  
 Intelligent systems
 
 </td>
 
 <td width="33%" align="center">
 
-03
+### `03`
 
-⌘
+# ⌘
 
-DSA
+### DSA
 
-Problem solving
-Algorithms
-Data structures
-Complexity analysis
+Problem solving  
+Algorithms  
+Data structures  
+Complexity analysis  
 LeetCode
 
 </td>
@@ -98,9 +104,11 @@ LeetCode
 
 </div>
 
+---
+
 <div align="center">
 
-03 — PROJECTS
+## `03 — PROJECTS`
 
 </div>
 
@@ -109,16 +117,16 @@ LeetCode
 
 <td width="50%" valign="top">
 
-🌅 AFTERGLOW
+### 🌅 AFTERGLOW
 
-Preserve the moments that matter.
+**Preserve the moments that matter.**
 
 A platform for creating, preserving, and privately sharing meaningful experiences.
 
-Built with
+**Built with**
 
-React · TypeScript
-Tailwind CSS · Supabase
+`React` · `TypeScript`  
+`Tailwind CSS` · `Supabase`
 
 <br>
 
@@ -130,20 +138,20 @@ Tailwind CSS · Supabase
 
 <td width="50%" valign="top">
 
-⬛ TAB ZERO
+### ⬛ TAB ZERO
 
-Turn scattered resources into a visual workspace.
+**Turn scattered resources into a visual workspace.**
 
 A spatial workspace for organizing links, resources, groups, notes, and connections on an interactive canvas.
 
-Built with
+**Built with**
 
-React · JavaScript
-Vite · localStorage
+`React` · `JavaScript`  
+`Vite` · `localStorage`
 
-Architecture
+**Architecture**
 
-Custom Hooks · Pure State Actions · Canvas Engine
+`Custom Hooks` · `Pure State Actions` · `Canvas Engine`
 
 <br>
 
@@ -156,12 +164,15 @@ Custom Hooks · Pure State Actions · Canvas Engine
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-04 — DSA JOURNEY
+## `04 — DSA JOURNEY`
 
 </div>
 
+```text
                            DSA
                             │
              ┌──────────────┼──────────────┐
@@ -177,17 +188,21 @@ Custom Hooks · Pure State Actions · Canvas Engine
                           GRAPHS
                             │
                     DYNAMIC PROGRAMMING
+```
 
-Currently building my problem-solving foundation with Python + LeetCode.
+Currently building my problem-solving foundation with **Python + LeetCode**.
 
 The goal isn't just to solve problems — it's to recognize patterns, understand complexity, and develop systematic approaches.
 
+---
+
 <div align="center">
 
-05 — CYBERSECURITY
+## `05 — CYBERSECURITY`
 
 </div>
 
+```text
                     CYBERSECURITY
                          │
           ┌──────────────┼──────────────┐
@@ -199,14 +214,17 @@ The goal isn't just to solve problems — it's to recognize patterns, understand
           └──────────────┼──────────────┘
                          │
                   HANDS-ON LEARNING
+```
 
 Currently exploring:
 
-Security Fundamentals · Networking · Web Security · Threats · Vulnerabilities
+`Security Fundamentals` · `Networking` · `Web Security` · `Threats` · `Vulnerabilities`
+
+---
 
 <div align="center">
 
-06 — ARTIFICIAL INTELLIGENCE
+## `06 — ARTIFICIAL INTELLIGENCE`
 
 </div>
 
@@ -215,22 +233,22 @@ Security Fundamentals · Networking · Web Security · Threats · Vulnerabilitie
 
 <td width="50%" align="center">
 
-🤖 GENERATIVE AI
+### 🤖 GENERATIVE AI
 
-LLMs
-Prompt Engineering
-AI Applications
+LLMs  
+Prompt Engineering  
+AI Applications  
 RAG
 
 </td>
 
 <td width="50%" align="center">
 
-⚡ EMERGING AI
+### ⚡ EMERGING AI
 
-Agentic AI
-AI Systems
-AI-powered Applications
+Agentic AI  
+AI Systems  
+AI-powered Applications  
 Intelligent Workflows
 
 </td>
@@ -238,9 +256,11 @@ Intelligent Workflows
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-07 — TECH
+## `07 — TECH`
 
 <br>
 
@@ -248,12 +268,15 @@ Intelligent Workflows
 
 </div>
 
+---
+
 <div align="center">
 
-08 — CURRENTLY LEARNING
+## `08 — CURRENTLY LEARNING`
 
 <br>
 
+```text
 🔐 CYBERSECURITY
 Security · Networks · Web · Threats
 
@@ -262,15 +285,19 @@ GenAI · LLMs · RAG · Agentic AI
 
 🧩 DATA STRUCTURES & ALGORITHMS
 Patterns · Complexity · Problem Solving
+```
 
 </div>
 
+---
+
 <div align="center">
 
-09 — THE MINDSET
+## `09 — THE MINDSET`
 
 <br>
 
+```text
              ┌──────────┐
              │  LEARN   │
              └────┬─────┘
@@ -292,14 +319,17 @@ Patterns · Complexity · Problem Solving
              └────┬─────┘
                   │
                   └──────────→ ↺
+```
 
-curiosity is the starting point.
+### `curiosity is the starting point.`
 
 </div>
 
+---
+
 <div align="center">
 
-10 — CONNECT
+## `10 — CONNECT`
 
 <br>
 
@@ -307,7 +337,7 @@ curiosity is the starting point.
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
- 
+&nbsp;
 
 <a href="https://www.linkedin.com/in/sangamithirai-rs">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
