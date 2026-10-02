@@ -110,35 +110,62 @@ LeetCode
 
 <div align="center">
 
+<div align="center">
+
 ## `03 — PROJECTS`
 
 </div>
 
-### 🌅 `AFTERGLOW`
+<table>
+<tr>
 
-> A platform for creating, preserving, and sharing meaningful experiences.
+<td width="50%" valign="top">
 
-**Stack**
+### 🌅 AFTERGLOW
 
-`React` · `TypeScript` · `Tailwind CSS` · `Supabase`
+**Preserve the moments that matter.**
+
+A platform designed to create, preserve, and privately share meaningful experiences.
+
+<br>
+
+**Built with**
+
+`React` `TypeScript`  
+`Tailwind CSS` `Supabase`
+
+<br>
 
 <a href="https://github.com/sangamithirai-rs/Afterglow">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+</td>
 
-### ⬛ `TAB ZERO`
+<td width="50%" valign="top">
 
-> A modern browser-focused web experience built around a clean and interactive interface.
+### ⬛ TAB ZERO
 
-**Stack**
+**A cleaner way to browse.**
 
-`React` · `Vite`
+A modern browser-focused experience built around a clean and interactive interface.
 
----
+<br>
 
-<div align="center">
+**Built with**
+
+`React` `Vite`
+
+<br>
+
+<a href="https://github.com/sangamithirai-rs">
+<img src="https://img.shields.io/badge/VIEW_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ## `04 — DSA JOURNEY`
 
