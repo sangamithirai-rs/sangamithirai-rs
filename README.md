@@ -1,160 +1,254 @@
 <div align="center">
 
-# `SANGAMITHIRAI`
-
-### `CYBERSECURITY` · `AI` · `DSA`
-
-**Computer Science Student | Security Learner | AI Explorer | Problem Solver**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:7C3AED&height=220&section=header&text=SANGAMITHIRAI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=CYBERSECURITY%20%7C%20AI%20%7C%20DSA&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rssangamithirai-glitch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sangamithirai-rs)
+### `building • breaking • understanding`
+
+Computer Science Student · Cybersecurity Learner · AI Explorer
+
+<br>
+
+<a href="https://github.com/rssangamithirai-glitch">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/sangamithirai-rs">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 
 </div>
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM INITIALIZED                                          │
-│                                                              │
-│  > identity      : computer science student                  │
-│  > interests     : cybersecurity / artificial intelligence   │
-│  > discipline    : data structures & algorithms              │
-│  > mindset       : learn → build → break → understand        │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-## `01 / FOCUS`
+## `01 — WHO AM I?`
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🔐
-
-**CYBERSECURITY**
-
-Security fundamentals
-Threats & vulnerabilities
-Network security
-Web security
-Hands-on labs
-
-</td>
-
-<td width="33%" align="center">
-
-### ◉
-
-**ARTIFICIAL INTELLIGENCE**
-
-Generative AI
-LLMs
-AI applications
-Agentic AI
-Machine learning fundamentals
-
-</td>
-
-<td width="33%" align="center">
-
-### ⌘
-
-**DSA**
-
-Problem solving
-Algorithms
-Data structures
-Complexity analysis
-LeetCode
-
-</td>
-</tr>
-</table>
-
----
-
-## `02 / CURRENTLY BUILDING`
-
-### 🧩 DSA Journey
+</div>
 
 ```text
-Python
-  │
-  ├── Arrays & Hashing
-  ├── Two Pointers
-  ├── Sliding Window
-  ├── Stack
-  ├── Binary Search
-  ├── Linked Lists
-  ├── Trees
-  ├── Graphs
-  └── Dynamic Programming
-```
-
-> Solving problems consistently. Understanding the pattern, not just the solution.
-
----
-
-## `03 / PROJECTS`
-
-### 🌅 AFTERGLOW
-
-**A platform for creating, preserving and sharing meaningful experiences.**
-
-`React` `TypeScript` `Tailwind CSS` `Supabase`
-
-[↗ View Repository](https://github.com/sangamithirai-rs/Afterglow)
-
----
-
-### ⬛ TAB ZERO
-
-**A modern browser-focused web experience built with a clean, interactive interface.**
-
-`React` `Vite`
-
----
-
-## `04 / LEARNING LOG`
-
-```text
-CYBERSECURITY    ███████░░░░░░
-AI / GENAI       ██████░░░░░░░
-DSA              ███████░░░░░░
-```
-
-**Currently exploring**
-
-`Cybersecurity` · `AI` · `Generative AI` · `Python` · `DSA`
-
----
-
-## `05 / PRINCIPLES`
-
-```text
-01  Understand before implementing.
-02  Build things instead of only studying them.
-03  Break systems to understand how they work.
-04  Solve problems from first principles.
-05  Keep learning.
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│   $ whoami                                                    │
+│                                                               │
+│   Computer Science student with a curiosity for               │
+│   systems, security, intelligent technologies,                │
+│   and problem solving.                                        │
+│                                                               │
+│   I like understanding how things work —                      │
+│   and then figuring out how they can be improved,             │
+│   secured, or built differently.                              │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 <div align="center">
 
-### `> curious about systems. obsessed with learning.`
+## `02 — THE THREE PILLARS`
 
-<br>
+<table>
+<tr>
 
-**CYBERSECURITY  ×  AI  ×  DSA**
+<td width="33%" align="center">
 
-<br>
+### `01`
 
-![Profile Views](https://komarev.com/ghpvc/?username=rssangamithirai-glitch\&style=flat-square\&color=grey)
+# 🔐
+
+### CYBERSECURITY
+
+Security fundamentals
+Network security
+Web security
+Threats & vulnerabilities
+Hands-on security learning
+
+</td>
+
+<td width="33%" align="center">
+
+### `02`
+
+# ◉
+
+### ARTIFICIAL INTELLIGENCE
+
+Generative AI
+LLMs
+AI applications
+Agentic AI
+Exploring intelligent systems
+
+</td>
+
+<td width="33%" align="center">
+
+### `03`
+
+# ⌘
+
+### DSA
+
+Problem solving
+Algorithms
+Data structures
+Complexity
+LeetCode
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
+---
+
+<div align="center">
+
+## `03 — PROJECTS`
+
+</div>
+
+### 🌅 `AFTERGLOW`
+
+> A platform for creating, preserving, and sharing meaningful experiences.
+
+**Stack**
+
+`React` · `TypeScript` · `Tailwind CSS` · `Supabase`
+
+<a href="https://github.com/sangamithirai-rs/Afterglow">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### ⬛ `TAB ZERO`
+
+> A modern browser-focused web experience built around a clean and interactive interface.
+
+**Stack**
+
+`React` · `Vite`
+
+---
+
+<div align="center">
+
+## `04 — DSA JOURNEY`
+
+</div>
+
+```text
+                         DSA
+                          │
+        ┌─────────────────┼─────────────────┐
+        │                 │                 │
+      ARRAYS            STACKS          BINARY SEARCH
+        │                 │                 │
+   HASHING           TWO POINTERS      LINKED LISTS
+        │                 │                 │
+        └─────────────────┼─────────────────┘
+                          │
+                       TREES
+                          │
+                       GRAPHS
+                          │
+                  DYNAMIC PROGRAMMING
+```
+
+Currently solving problems with **Python + LeetCode**, focusing on understanding patterns rather than memorizing solutions.
+
+---
+
+<div align="center">
+
+## `05 — CURRENTLY EXPLORING`
+
+<br>
+
+`🔐 CYBERSECURITY`
+
+**Security · Networks · Web · Threats**
+
+<br><br>
+
+`🤖 ARTIFICIAL INTELLIGENCE`
+
+**GenAI · LLMs · Agentic AI**
+
+<br><br>
+
+`🧩 DSA`
+
+**Algorithms · Data Structures · Problem Solving**
+
+</div>
+
+---
+
+<div align="center">
+
+## `06 — TECH`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,react,vite,supabase,postgres,git,github,vscode&perline=7" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `07 — THE MINDSET`
+
+<br>
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↺
+```
+
+<br>
+
+### `curiosity is the starting point.`
+
+</div>
+
+---
+
+<div align="center">
+
+## `08 — CONNECT`
+
+<br>
+
+<a href="https://github.com/rssangamithirai-glitch">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sangamithirai-rs">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<br><br>
+
+<sub>Built with curiosity · maintained with consistency</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:161B22,100:0D1117&height=120&section=footer" width="100%"/>
