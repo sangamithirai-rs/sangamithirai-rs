@@ -8,16 +8,19 @@
 
 <br>
 
-<a href="https://github.com/rssangamithirai-glitch">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/sangamithirai-rs">
-  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="https://mithiraiii.linklee.in/">
-  <img src="https://img.shields.io/badge/LINKLEE-0D1117?style=flat&logo=linktree&logoColor=white" alt="Linklee"/>
-</a>
+<p align="center">
+  <a href="https://github.com/sangamithirai-rs">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/sangamithirai-rs">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://mithiraiii.linklee.in/">
+    <img src="https://img.shields.io/badge/Linklee-0D1117?style=for-the-badge&logo=linktree&logoColor=white" alt="Linklee"/>
+  </a>
+</p>
 </div>
 
 ---
