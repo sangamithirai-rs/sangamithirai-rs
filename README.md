@@ -12,10 +12,12 @@
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/sangamithirai-rs">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<a href="https://linkedin.com/in/sangamithirai-rs">
+  <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
-
+<a href="https://mithiraiii.linklee.in/">
+  <img src="https://img.shields.io/badge/LINKLEE-0D1117?style=flat&logo=linktree&logoColor=white" alt="Linklee"/>
+</a>
 </div>
 
 ---
